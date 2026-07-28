@@ -1,0 +1,144 @@
+	#SampleID	real_age	mmi	real_year	pred_year	Months	host_sex	Host_disease	location_disease	mean_age	Separation	Network	Group
+0	SRR23478195	18.0	67.06	1.0	5.09	18.0	female	Control	Control(IT)	50.83	mmihigh	mmihigh	mmihigh
+1	SRR23478196	18.0	45.7	1.0	3.31	18.0	male	Control	Control(IT)	50.83	mmilow	mmilow	mmilow
+2	SRR23478197	18.0	39.73	1.0	2.81	18.0	female	Control	Control(IT)	50.83	mmilow	mmilow	mmilow
+3	SRR23478198	30.0	57.06	2.0	4.25	30.0	male	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh
+4	SRR23478199	30.0	56.14	2.0	4.18	30.0	male	Control	Control(IT)	56.42	mmilow	mmilow	mmilow
+5	SRR23478200	30.0	41.4	2.0	2.95	30.0	female	Control	Control(IT)	56.42	mmilow	mmilow	mmilow
+6	SRR23478201	30.0	42.29	2.0	3.02	30.0	male	Control	Control(IT)	56.42	mmilow	mmilow	mmilow
+7	SRR23478203	30.0	45.72	2.0	3.31	30.0	female	Control	Control(IT)	56.42	mmilow	mmilow	mmilow
+8	SRR23478204	30.0	43.18	2.0	3.1	30.0	female	Control	Control(IT)	56.42	mmilow	mmilow	mmilow
+9	SRR23478205	30.0	67.78	2.0	5.15	30.0	male	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh
+10	SRR23478206	30.0	39.09	2.0	2.76	30.0	male	Control	Control(IT)	56.42	mmilow	mmilow	mmilow
+11	SRR23478207	30.0	78.83	2.0	6.07	30.0	female	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh
+12	SRR23478208	30.0	73.49	2.0	5.62	30.0	female	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh
+13	SRR23478209	30.0	57.35	2.0	4.28	30.0	male	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh
+14	SRR23478210	30.0	89.95	2.0	7.0	30.0	female	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh
+15	SRR23478211	30.0	41.18	2.0	2.93	30.0	male	Control	Control(IT)	56.42	mmilow	mmilow	mmilow
+16	SRR23478212	42.0	49.56	3.0	3.63	42.0	female	Control	Control(IT)	74.8	mmilow	mmilow	mmilow
+17	SRR23478214	42.0	96.15	3.0	7.51	42.0	female	Control	Control(IT)	74.8	mmihigh	mmihigh	mmihigh
+18	SRR23478215	42.0	72.74	3.0	5.56	42.0	male	Control	Control(IT)	74.8	mmilow	mmilow	mmilow
+19	SRR23478216	42.0	83.56	3.0	6.46	42.0	female	Control	Control(IT)	74.8	mmihigh	mmihigh	mmihigh
+20	SRR23478217	42.0	43.62	3.0	3.13	42.0	male	Control	Control(IT)	74.8	mmilow	mmilow	mmilow
+21	SRR23478218	42.0	69.01	3.0	5.25	42.0	male	Control	Control(IT)	74.8	mmilow	mmilow	mmilow
+22	SRR23478227	42.0	108.98	3.0	8.58	42.0	male	Control	Control(IT)	74.8	mmihigh	mmihigh	mmihigh
+23	SRR23478228	54.0	52.16	4.0	3.85	54.0	female	Control	Control(IT)	63.14	mmilow	mmilow	mmilow
+24	SRR23478229	54.0	66.55	4.0	5.05	54.0	male	Control	Control(IT)	63.14	mmihigh	mmihigh	mmihigh
+25	SRR23478230	54.0	58.29	4.0	4.36	54.0	female	Control	Control(IT)	63.14	mmilow	mmilow	mmilow
+26	SRR23478232	54.0	51.82	4.0	3.82	54.0	male	Control	Control(IT)	63.14	mmilow	mmilow	mmilow
+27	SRR23478233	54.0	35.84	4.0	2.49	54.0	male	Control	Control(IT)	63.14	mmilow	mmilow	mmilow
+28	SRR23478234	54.0	114.15	4.0	9.01	54.0	male	Control	Control(IT)	63.14	mmihigh	mmihigh	mmihigh
+29	SRR23478235	66.0	134.72	5.0	10.73	66.0	male	Control	Control(IT)	93.28	mmihigh	mmihigh	mmihigh
+30	SRR23478236	66.0	74.93	5.0	5.74	66.0	female	Control	Control(IT)	93.28	mmilow	mmilow	mmilow
+31	SRR23478237	66.0	67.3	5.0	5.11	66.0	male	Control	Control(IT)	93.28	mmilow	mmilow	mmilow
+32	SRR23478238	66.0	96.15	5.0	7.51	66.0	female	Control	Control(IT)	93.28	mmihigh	mmihigh	mmihigh
+33	SRR23478239	78.0	67.7	6.0	5.14	78.0	female	Control	Control(IT)	93.81	mmilow	mmilow	mmilow
+34	SRR23478240	78.0	114.54	6.0	9.05	78.0	female	Control	Control(IT)	93.81	mmihigh	mmihigh	mmihigh
+35	SRR23478241	78.0	74.58	6.0	5.72	78.0	male	Control	Control(IT)	93.81	mmilow	mmilow	mmilow
+36	SRR23478243	78.0	104.93	6.0	8.24	78.0	female	Control	Control(IT)	93.81	mmihigh	mmihigh	mmihigh
+37	SRR23478244	78.0	107.31	6.0	8.44	78.0	female	Control	Control(IT)	93.81	mmihigh	mmihigh	mmihigh
+38	SRR23478245	90.0	131.88	7.0	10.49	90.0	female	Control	Control(IT)	102.02	mmihigh	mmihigh	mmihigh
+39	SRR23478246	90.0	102.42	7.0	8.03	90.0	male	Control	Control(IT)	102.02	mmihigh	mmihigh	mmihigh
+40	SRR23478247	90.0	56.04	7.0	4.17	90.0	male	Control	Control(IT)	102.02	mmilow	mmilow	mmilow
+41	SRR23478248	90.0	117.49	7.0	9.29	90.0	male	Control	Control(IT)	102.02	mmihigh	mmihigh	mmihigh
+42	SRR23478249	90.0	110.94	7.0	8.75	90.0	male	Control	Control(IT)	102.02	mmihigh	mmihigh	mmihigh
+43	SRR23478250	90.0	102.19	7.0	8.02	90.0	female	Control	Control(IT)	102.02	mmihigh	mmihigh	mmihigh
+44	SRR23478251	90.0	98.55	7.0	7.71	90.0	male	Control	Control(IT)	102.02	mmilow	mmilow	mmilow
+45	SRR23478252	90.0	96.63	7.0	7.55	90.0	female	Control	Control(IT)	102.02	mmilow	mmilow	mmilow
+46	SRR23478254	102.0	106.97	8.0	8.41	102.0	female	Control	Control(IT)	107.68	mmilow	mmilow	mmilow
+47	SRR23478255	102.0	79.09	8.0	6.09	102.0	male	Control	Control(IT)	107.68	mmilow	mmilow	mmilow
+48	SRR23478256	102.0	107.31	8.0	8.44	102.0	male	Control	Control(IT)	107.68	mmilow	mmilow	mmilow
+49	SRR23478257	102.0	125.67	8.0	9.97	102.0	male	Control	Control(IT)	107.68	mmihigh	mmihigh	mmihigh
+50	SRR23478258	102.0	117.54	8.0	9.3	102.0	male	Control	Control(IT)	107.68	mmihigh	mmihigh	mmihigh
+51	SRR23478259	102.0	125.37	8.0	9.95	102.0	male	Control	Control(IT)	107.68	mmihigh	mmihigh	mmihigh
+52	SRR23478260	102.0	107.11	8.0	8.43	102.0	male	Control	Control(IT)	107.68	mmilow	mmilow	mmilow
+53	SRR23478261	102.0	125.5	8.0	9.96	102.0	female	Control	Control(IT)	107.68	mmihigh	mmihigh	mmihigh
+54	SRR23478262	102.0	74.59	8.0	5.72	102.0	male	Control	Control(IT)	107.68	mmilow	mmilow	mmilow
+55	SRR23478263	114.0	90.9	9.0	7.07	114.0	male	Control	Control(IT)	95.75	mmilow	mmilow	mmilow
+56	SRR23478265	114.0	135.81	9.0	10.82	114.0	female	Control	Control(IT)	95.75	mmihigh	mmihigh	mmihigh
+57	SRR23478266	114.0	86.11	9.0	6.68	114.0	male	Control	Control(IT)	95.75	mmilow	mmilow	mmilow
+58	SRR23478267	114.0	92.39	9.0	7.2	114.0	male	Control	Control(IT)	95.75	mmilow	mmilow	mmilow
+59	SRR23478268	114.0	79.49	9.0	6.12	114.0	female	Control	Control(IT)	95.75	mmilow	mmilow	mmilow
+60	SRR23478269	114.0	59.49	9.0	4.46	114.0	female	Control	Control(IT)	95.75	mmilow	mmilow	mmilow
+61	SRR23478270	114.0	126.03	9.0	10.0	114.0	male	Control	Control(IT)	95.75	mmihigh	mmihigh	mmihigh
+62	SRR23478271	126.0	113.23	10.0	8.94	126.0	male	Control	Control(IT)	125.1	mmilow	mmilow	mmilow
+63	SRR23478272	126.0	140.02	10.0	11.17	126.0	female	Control	Control(IT)	125.1	mmihigh	mmihigh	mmihigh
+64	SRR23478273	126.0	142.72	10.0	11.39	126.0	female	Control	Control(IT)	125.1	mmihigh	mmihigh	mmihigh
+65	SRR23478274	126.0	117.39	10.0	9.28	126.0	female	Control	Control(IT)	125.1	mmilow	mmilow	mmilow
+66	SRR23478276	126.0	129.37	10.0	10.28	126.0	male	Control	Control(IT)	125.1	mmihigh	mmihigh	mmihigh
+67	SRR23478277	126.0	111.7	10.0	8.81	126.0	male	Control	Control(IT)	125.1	mmilow	mmilow	mmilow
+68	SRR23478278	126.0	113.56	10.0	8.96	126.0	male	Control	Control(IT)	125.1	mmilow	mmilow	mmilow
+69	SRR23478279	126.0	132.85	10.0	10.57	126.0	female	Control	Control(IT)	125.1	mmihigh	mmihigh	mmihigh
+70	SRR23478191	138.0	60.84	11.0	4.57	138.0	female	Control	Control(IT)	109.76	mmilow	mmilow	mmilow
+71	SRR23478202	138.0	94.92	11.0	7.41	138.0	female	Control	Control(IT)	109.76	mmilow	mmilow	mmilow
+72	SRR23478280	138.0	120.06	11.0	9.5	138.0	female	Control	Control(IT)	109.76	mmihigh	mmihigh	mmihigh
+73	SRR23478281	138.0	128.57	11.0	10.21	138.0	male	Control	Control(IT)	109.76	mmihigh	mmihigh	mmihigh
+74	SRR23478282	138.0	103.86	11.0	8.16	138.0	male	Control	Control(IT)	109.76	mmilow	mmilow	mmilow
+75	SRR23478283	138.0	126.45	11.0	10.04	138.0	female	Control	Control(IT)	109.76	mmihigh	mmihigh	mmihigh
+76	SRR23478284	138.0	121.15	11.0	9.6	138.0	female	Control	Control(IT)	109.76	mmihigh	mmihigh	mmihigh
+77	SRR23478292	138.0	122.25	11.0	9.69	138.0	female	Control	Control(IT)	109.76	mmihigh	mmihigh	mmihigh
+78	SRR23478213	150.0	126.35	12.0	10.03	150.0	female	Control	Control(IT)	108.56	mmihigh	mmihigh	mmihigh
+79	SRR23478231	150.0	90.77	12.0	7.06	150.0	male	Control	Control(IT)	108.56	mmilow	mmilow	mmilow
+80	SRR23478242	162.0	117.4	13.0	9.28	162.0	female	Control	Control(IT)	126.54	mmilow	mmilow	mmilow
+81	SRR23478253	162.0	132.45	13.0	10.54	162.0	female	Control	Control(IT)	126.54	mmihigh	mmihigh	mmihigh
+82	SRR23478264	162.0	142.88	13.0	11.41	162.0	female	Control	Control(IT)	126.54	mmihigh	mmihigh	mmihigh
+83	SRR23478275	162.0	116.68	13.0	9.22	162.0	male	Control	Control(IT)	126.54	mmilow	mmilow	mmilow
+84	SRR23478293	162.0	147.61	13.0	11.8	162.0	female	Control	Control(IT)	126.54	mmihigh	mmihigh	mmihigh
+85	SRR23478294	162.0	102.21	13.0	8.02	162.0	male	Control	Control(IT)	126.54	mmilow	mmilow	mmilow
+86	SRR23478285	174.0	74.1	14.0	5.67	174.0	male	Control	Control(IT)	100.24	mmilow	mmilow	mmilow
+87	SRR23478286	174.0	113.54	14.0	8.96	174.0	female	Control	Control(IT)	100.24	mmihigh	mmihigh	mmihigh
+88	SRR23478287	174.0	113.09	14.0	8.92	174.0	male	Control	Control(IT)	100.24	mmihigh	mmihigh	mmihigh
+89	SRR23478288	186.0	126.63	15.0	10.05	186.0	female	Control	Control(IT)	122.46	mmihigh	mmihigh	mmihigh
+90	SRR23478289	186.0	117.81	15.0	9.32	186.0	female	Control	Control(IT)	122.46	mmilow	mmilow	mmilow
+91	SRR23478290	186.0	122.94	15.0	9.75	186.0	male	Control	Control(IT)	122.46	mmihigh	mmihigh	mmihigh
+92	SRR23478291	198.0	124.33	16.0	9.86	198.0	female	Control	Control(IT)	124.33	mmihigh	mmihigh	mmihigh
+93	SRR23478220	210.0	130.94	17.0	10.41	210.0	male	Control	Control(IT)	130.94	mmihigh	mmihigh	mmihigh
+94	SRR29856071	210.0	53.69	17.0	3.97	210.0	female	PIBD	PIBD(IT)	130.94	mmilow	PIBD	PIBD
+95	SRR29856073	174.0	71.44	14.0	5.45	174.0	male	PIBD	PIBD(IT)	100.24	mmilow	PIBD	PIBD
+96	SRR29856074	138.0	112.03	11.0	8.84	138.0	female	PIBD	PIBD(IT)	109.76	mmihigh	PIBD	PIBD
+97	SRR29856077	198.0	107.16	16.0	8.43	198.0	male	PIBD	PIBD(IT)	124.33	mmilow	PIBD	PIBD
+98	SRR29856079	174.0	60.4	14.0	4.53	174.0	female	PIBD	PIBD(IT)	100.24	mmilow	PIBD	PIBD
+99	SRR29856080	162.0	60.42	13.0	4.54	162.0	female	PIBD	PIBD(IT)	126.54	mmilow	PIBD	PIBD
+100	SRR29856082	54.0	73.19	4.0	5.6	54.0	female	PIBD	PIBD(IT)	63.14	mmihigh	PIBD	PIBD
+101	SRR29856083	186.0	70.31	15.0	5.36	186.0	female	PIBD	PIBD(IT)	122.46	mmilow	PIBD	PIBD
+102	SRR29856085	186.0	70.72	15.0	5.39	186.0	female	PIBD	PIBD(IT)	122.46	mmilow	PIBD	PIBD
+103	SRR29856086	174.0	98.59	14.0	7.72	174.0	male	PIBD	PIBD(IT)	100.24	mmilow	PIBD	PIBD
+104	SRR29856087	174.0	91.3	14.0	7.11	174.0	female	PIBD	PIBD(IT)	100.24	mmilow	PIBD	PIBD
+105	SRR29856088	174.0	39.22	14.0	2.77	174.0	female	PIBD	PIBD(IT)	100.24	mmilow	PIBD	PIBD
+106	SRR29856090	150.0	75.62	12.0	5.8	150.0	male	PIBD	PIBD(IT)	108.56	mmilow	PIBD	PIBD
+107	SRR29856091	126.0	89.07	10.0	6.92	126.0	male	PIBD	PIBD(IT)	125.1	mmilow	PIBD	PIBD
+108	SRR29856092	174.0	70.63	14.0	5.39	174.0	female	PIBD	PIBD(IT)	100.24	mmilow	PIBD	PIBD
+109	SRR29856093	114.0	77.25	9.0	5.94	114.0	female	PIBD	PIBD(IT)	95.75	mmilow	PIBD	PIBD
+110	SRR29856094	162.0	60.73	13.0	4.56	162.0	female	PIBD	PIBD(IT)	126.54	mmilow	PIBD	PIBD
+111	SRR29856095	162.0	108.0	13.0	8.5	162.0	male	PIBD	PIBD(IT)	126.54	mmilow	PIBD	PIBD
+112	SRR29856096	162.0	115.61	13.0	9.13	162.0	male	PIBD	PIBD(IT)	126.54	mmilow	PIBD	PIBD
+113	SRR29856097	102.0	88.09	8.0	6.84	102.0	male	PIBD	PIBD(IT)	107.68	mmilow	PIBD	PIBD
+114	SRR29856098	138.0	54.21	11.0	4.02	138.0	female	PIBD	PIBD(IT)	109.76	mmilow	PIBD	PIBD
+115	SRR29856099	150.0	82.98	12.0	6.42	150.0	male	PIBD	PIBD(IT)	108.56	mmilow	PIBD	PIBD
+116	SRR29856102	186.0	74.9	15.0	5.74	186.0	female	PIBD	PIBD(IT)	122.46	mmilow	PIBD	PIBD
+117	SRR23492483	162.0	104.11	13.0	8.18	162.0		PIBD	PIBD(IT)	126.54	mmilow	PIBD	PIBD
+118	SRR23492508	42.0	42.9	3.0	3.08	42.0		PIBD	PIBD(IT)	74.8	mmilow	PIBD	PIBD
+119	SRR23492516	186.0	77.28	15.0	5.94	186.0		PIBD	PIBD(IT)	122.46	mmilow	PIBD	PIBD
+120	SRR23492517	198.0	86.05	16.0	6.67	198.0		PIBD	PIBD(IT)	124.33	mmilow	PIBD	PIBD
+121	SRR23492518	186.0	118.95	15.0	9.41	186.0		PIBD	PIBD(IT)	122.46	mmilow	PIBD	PIBD
+122	SRR23492520	186.0	84.24	15.0	6.52	186.0		PIBD	PIBD(IT)	122.46	mmilow	PIBD	PIBD
+123	SRR23492521	102.0	128.18	8.0	10.18	102.0		PIBD	PIBD(IT)	107.68	mmihigh	PIBD	PIBD
+124	SRR23492522	66.0	69.34	5.0	5.28	66.0		PIBD	PIBD(IT)	93.28	mmilow	PIBD	PIBD
+125	SRR23492523	198.0	74.2	16.0	5.68	198.0		PIBD	PIBD(IT)	124.33	mmilow	PIBD	PIBD
+126	SRR23492524	174.0	45.55	14.0	3.3	174.0		PIBD	PIBD(IT)	100.24	mmilow	PIBD	PIBD
+127	SRR23492525	186.0	106.86	15.0	8.41	186.0		PIBD	PIBD(IT)	122.46	mmilow	PIBD	PIBD
+128	SRR23492530	174.0	83.6	14.0	6.47	174.0		PIBD	PIBD(IT)	100.24	mmilow	PIBD	PIBD
+129	SRR23492531	102.0	85.22	8.0	6.6	102.0		PIBD	PIBD(IT)	107.68	mmilow	PIBD	PIBD
+130	SRR23492532	174.0	45.35	14.0	3.28	174.0		PIBD	PIBD(IT)	100.24	mmilow	PIBD	PIBD
+131	SRR23492534	150.0	42.02	12.0	3.0	150.0		PIBD	PIBD(IT)	108.56	mmilow	PIBD	PIBD
+132	SRR23492545	198.0	120.07	16.0	9.51	198.0		PIBD	PIBD(IT)	124.33	mmilow	PIBD	PIBD
+133	SRR23492546	126.0	82.23	10.0	6.35	126.0		PIBD	PIBD(IT)	125.1	mmilow	PIBD	PIBD
+134	SRR23492547	102.0	60.84	8.0	4.57	102.0		PIBD	PIBD(IT)	107.68	mmilow	PIBD	PIBD
+135	SRR23492549	18.0	44.49	1.0	3.21	18.0		PIBD	PIBD(IT)	50.83	mmilow	PIBD	PIBD
+136	SRR23492550	90.0	95.87	7.0	7.49	90.0		PIBD	PIBD(IT)	102.02	mmilow	PIBD	PIBD
+137	SRR23492551	186.0	96.83	15.0	7.57	186.0		PIBD	PIBD(IT)	122.46	mmilow	PIBD	PIBD
+138	SRR23492553	186.0	69.3	15.0	5.28	186.0		PIBD	PIBD(IT)	122.46	mmilow	PIBD	PIBD
+139	SRR23492554	66.0	62.22	5.0	4.68	66.0		PIBD	PIBD(IT)	93.28	mmilow	PIBD	PIBD
+140	SRR23492555	150.0	55.53	12.0	4.13	150.0		PIBD	PIBD(IT)	108.56	mmilow	PIBD	PIBD
+141	SRR23492556	42.0	84.98	3.0	6.58	42.0		PIBD	PIBD(IT)	74.8	mmihigh	PIBD	PIBD
+142	SRR23492560	210.0	51.18	17.0	3.77	210.0		PIBD	PIBD(IT)	130.94	mmilow	PIBD	PIBD

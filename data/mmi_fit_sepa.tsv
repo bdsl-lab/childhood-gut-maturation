@@ -1,0 +1,144 @@
+#SampleID	Unnamed: 0	real_age	mmi	real_year	pred_year	Months	host_sex	Host_disease	location_disease	mean_age	Separation	Network	Group	MMI_fit	mmibased
+SRR23478195	0	18.0	67.06	1.0	5.09	18.0	female	Control	Control(IT)	50.83	mmihigh	mmihigh	mmihigh	3.494656632822681	mmihigh
+SRR23478196	1	18.0	45.7	1.0	3.31	18.0	male	Control	Control(IT)	50.83	mmilow	mmilow	mmilow	3.494656632822681	mmilow
+SRR23478197	2	18.0	39.73	1.0	2.81	18.0	female	Control	Control(IT)	50.83	mmilow	mmilow	mmilow	3.494656632822681	mmilow
+SRR23478198	3	30.0	57.06	2.0	4.25	30.0	male	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh	4.367483718251999	mmilow
+SRR23478199	4	30.0	56.14	2.0	4.18	30.0	male	Control	Control(IT)	56.42	mmilow	mmilow	mmilow	4.367483718251999	mmilow
+SRR23478200	5	30.0	41.4	2.0	2.95	30.0	female	Control	Control(IT)	56.42	mmilow	mmilow	mmilow	4.367483718251999	mmilow
+SRR23478201	6	30.0	42.29	2.0	3.02	30.0	male	Control	Control(IT)	56.42	mmilow	mmilow	mmilow	4.367483718251999	mmilow
+SRR23478203	7	30.0	45.72	2.0	3.31	30.0	female	Control	Control(IT)	56.42	mmilow	mmilow	mmilow	4.367483718251999	mmilow
+SRR23478204	8	30.0	43.18	2.0	3.1	30.0	female	Control	Control(IT)	56.42	mmilow	mmilow	mmilow	4.367483718251999	mmilow
+SRR23478205	9	30.0	67.78	2.0	5.15	30.0	male	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh	4.367483718251999	mmihigh
+SRR23478206	10	30.0	39.09	2.0	2.76	30.0	male	Control	Control(IT)	56.42	mmilow	mmilow	mmilow	4.367483718251999	mmilow
+SRR23478207	11	30.0	78.83	2.0	6.07	30.0	female	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh	4.367483718251999	mmihigh
+SRR23478208	12	30.0	73.49	2.0	5.62	30.0	female	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh	4.367483718251999	mmihigh
+SRR23478209	13	30.0	57.35	2.0	4.28	30.0	male	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh	4.367483718251999	mmilow
+SRR23478210	14	30.0	89.95	2.0	7.0	30.0	female	Control	Control(IT)	56.42	mmihigh	mmihigh	mmihigh	4.367483718251999	mmihigh
+SRR23478211	15	30.0	41.18	2.0	2.93	30.0	male	Control	Control(IT)	56.42	mmilow	mmilow	mmilow	4.367483718251999	mmilow
+SRR23478212	16	42.0	49.56	3.0	3.63	42.0	female	Control	Control(IT)	74.8	mmilow	mmilow	mmilow	5.172007561640093	mmilow
+SRR23478214	17	42.0	96.15	3.0	7.51	42.0	female	Control	Control(IT)	74.8	mmihigh	mmihigh	mmihigh	5.172007561640093	mmihigh
+SRR23478215	18	42.0	72.74	3.0	5.56	42.0	male	Control	Control(IT)	74.8	mmilow	mmilow	mmilow	5.172007561640093	mmihigh
+SRR23478216	19	42.0	83.56	3.0	6.46	42.0	female	Control	Control(IT)	74.8	mmihigh	mmihigh	mmihigh	5.172007561640093	mmihigh
+SRR23478217	20	42.0	43.62	3.0	3.13	42.0	male	Control	Control(IT)	74.8	mmilow	mmilow	mmilow	5.172007561640093	mmilow
+SRR23478218	21	42.0	69.01	3.0	5.25	42.0	male	Control	Control(IT)	74.8	mmilow	mmilow	mmilow	5.172007561640093	mmihigh
+SRR23478227	22	42.0	108.98	3.0	8.58	42.0	male	Control	Control(IT)	74.8	mmihigh	mmihigh	mmihigh	5.172007561640093	mmihigh
+SRR23478228	23	54.0	52.16	4.0	3.85	54.0	female	Control	Control(IT)	63.14	mmilow	mmilow	mmilow	5.9082281629869655	mmilow
+SRR23478229	24	54.0	66.55	4.0	5.05	54.0	male	Control	Control(IT)	63.14	mmihigh	mmihigh	mmihigh	5.9082281629869655	mmilow
+SRR23478230	25	54.0	58.29	4.0	4.36	54.0	female	Control	Control(IT)	63.14	mmilow	mmilow	mmilow	5.9082281629869655	mmilow
+SRR23478232	26	54.0	51.82	4.0	3.82	54.0	male	Control	Control(IT)	63.14	mmilow	mmilow	mmilow	5.9082281629869655	mmilow
+SRR23478233	27	54.0	35.84	4.0	2.49	54.0	male	Control	Control(IT)	63.14	mmilow	mmilow	mmilow	5.9082281629869655	mmilow
+SRR23478234	28	54.0	114.15	4.0	9.01	54.0	male	Control	Control(IT)	63.14	mmihigh	mmihigh	mmihigh	5.9082281629869655	mmihigh
+SRR23478235	29	66.0	134.72	5.0	10.73	66.0	male	Control	Control(IT)	93.28	mmihigh	mmihigh	mmihigh	6.576145522292616	mmihigh
+SRR23478236	30	66.0	74.93	5.0	5.74	66.0	female	Control	Control(IT)	93.28	mmilow	mmilow	mmilow	6.576145522292616	mmilow
+SRR23478237	31	66.0	67.3	5.0	5.11	66.0	male	Control	Control(IT)	93.28	mmilow	mmilow	mmilow	6.576145522292616	mmilow
+SRR23478238	32	66.0	96.15	5.0	7.51	66.0	female	Control	Control(IT)	93.28	mmihigh	mmihigh	mmihigh	6.576145522292616	mmihigh
+SRR23478239	33	78.0	67.7	6.0	5.14	78.0	female	Control	Control(IT)	93.81	mmilow	mmilow	mmilow	7.175759639557042	mmilow
+SRR23478240	34	78.0	114.54	6.0	9.05	78.0	female	Control	Control(IT)	93.81	mmihigh	mmihigh	mmihigh	7.175759639557042	mmihigh
+SRR23478241	35	78.0	74.58	6.0	5.72	78.0	male	Control	Control(IT)	93.81	mmilow	mmilow	mmilow	7.175759639557042	mmilow
+SRR23478243	36	78.0	104.93	6.0	8.24	78.0	female	Control	Control(IT)	93.81	mmihigh	mmihigh	mmihigh	7.175759639557042	mmihigh
+SRR23478244	37	78.0	107.31	6.0	8.44	78.0	female	Control	Control(IT)	93.81	mmihigh	mmihigh	mmihigh	7.175759639557042	mmihigh
+SRR23478245	38	90.0	131.88	7.0	10.49	90.0	female	Control	Control(IT)	102.02	mmihigh	mmihigh	mmihigh	7.707070514780247	mmihigh
+SRR23478246	39	90.0	102.42	7.0	8.03	90.0	male	Control	Control(IT)	102.02	mmihigh	mmihigh	mmihigh	7.707070514780247	mmihigh
+SRR23478247	40	90.0	56.04	7.0	4.17	90.0	male	Control	Control(IT)	102.02	mmilow	mmilow	mmilow	7.707070514780247	mmilow
+SRR23478248	41	90.0	117.49	7.0	9.29	90.0	male	Control	Control(IT)	102.02	mmihigh	mmihigh	mmihigh	7.707070514780247	mmihigh
+SRR23478249	42	90.0	110.94	7.0	8.75	90.0	male	Control	Control(IT)	102.02	mmihigh	mmihigh	mmihigh	7.707070514780247	mmihigh
+SRR23478250	43	90.0	102.19	7.0	8.02	90.0	female	Control	Control(IT)	102.02	mmihigh	mmihigh	mmihigh	7.707070514780247	mmihigh
+SRR23478251	44	90.0	98.55	7.0	7.71	90.0	male	Control	Control(IT)	102.02	mmilow	mmilow	mmilow	7.707070514780247	mmihigh
+SRR23478252	45	90.0	96.63	7.0	7.55	90.0	female	Control	Control(IT)	102.02	mmilow	mmilow	mmilow	7.707070514780247	mmilow
+SRR23478254	46	102.0	106.97	8.0	8.41	102.0	female	Control	Control(IT)	107.68	mmilow	mmilow	mmilow	8.170078147962228	mmihigh
+SRR23478255	47	102.0	79.09	8.0	6.09	102.0	male	Control	Control(IT)	107.68	mmilow	mmilow	mmilow	8.170078147962228	mmilow
+SRR23478256	48	102.0	107.31	8.0	8.44	102.0	male	Control	Control(IT)	107.68	mmilow	mmilow	mmilow	8.170078147962228	mmihigh
+SRR23478257	49	102.0	125.67	8.0	9.97	102.0	male	Control	Control(IT)	107.68	mmihigh	mmihigh	mmihigh	8.170078147962228	mmihigh
+SRR23478258	50	102.0	117.54	8.0	9.3	102.0	male	Control	Control(IT)	107.68	mmihigh	mmihigh	mmihigh	8.170078147962228	mmihigh
+SRR23478259	51	102.0	125.37	8.0	9.95	102.0	male	Control	Control(IT)	107.68	mmihigh	mmihigh	mmihigh	8.170078147962228	mmihigh
+SRR23478260	52	102.0	107.11	8.0	8.43	102.0	male	Control	Control(IT)	107.68	mmilow	mmilow	mmilow	8.170078147962228	mmihigh
+SRR23478261	53	102.0	125.5	8.0	9.96	102.0	female	Control	Control(IT)	107.68	mmihigh	mmihigh	mmihigh	8.170078147962228	mmihigh
+SRR23478262	54	102.0	74.59	8.0	5.72	102.0	male	Control	Control(IT)	107.68	mmilow	mmilow	mmilow	8.170078147962228	mmilow
+SRR23478263	55	114.0	90.9	9.0	7.07	114.0	male	Control	Control(IT)	95.75	mmilow	mmilow	mmilow	8.564782539102987	mmilow
+SRR23478265	56	114.0	135.81	9.0	10.82	114.0	female	Control	Control(IT)	95.75	mmihigh	mmihigh	mmihigh	8.564782539102987	mmihigh
+SRR23478266	57	114.0	86.11	9.0	6.68	114.0	male	Control	Control(IT)	95.75	mmilow	mmilow	mmilow	8.564782539102987	mmilow
+SRR23478267	58	114.0	92.39	9.0	7.2	114.0	male	Control	Control(IT)	95.75	mmilow	mmilow	mmilow	8.564782539102987	mmilow
+SRR23478268	59	114.0	79.49	9.0	6.12	114.0	female	Control	Control(IT)	95.75	mmilow	mmilow	mmilow	8.564782539102987	mmilow
+SRR23478269	60	114.0	59.49	9.0	4.46	114.0	female	Control	Control(IT)	95.75	mmilow	mmilow	mmilow	8.564782539102987	mmilow
+SRR23478270	61	114.0	126.03	9.0	10.0	114.0	male	Control	Control(IT)	95.75	mmihigh	mmihigh	mmihigh	8.564782539102987	mmihigh
+SRR23478271	62	126.0	113.23	10.0	8.94	126.0	male	Control	Control(IT)	125.1	mmilow	mmilow	mmilow	8.891183688202522	mmihigh
+SRR23478272	63	126.0	140.02	10.0	11.17	126.0	female	Control	Control(IT)	125.1	mmihigh	mmihigh	mmihigh	8.891183688202522	mmihigh
+SRR23478273	64	126.0	142.72	10.0	11.39	126.0	female	Control	Control(IT)	125.1	mmihigh	mmihigh	mmihigh	8.891183688202522	mmihigh
+SRR23478274	65	126.0	117.39	10.0	9.28	126.0	female	Control	Control(IT)	125.1	mmilow	mmilow	mmilow	8.891183688202522	mmihigh
+SRR23478276	66	126.0	129.37	10.0	10.28	126.0	male	Control	Control(IT)	125.1	mmihigh	mmihigh	mmihigh	8.891183688202522	mmihigh
+SRR23478277	67	126.0	111.7	10.0	8.81	126.0	male	Control	Control(IT)	125.1	mmilow	mmilow	mmilow	8.891183688202522	mmilow
+SRR23478278	68	126.0	113.56	10.0	8.96	126.0	male	Control	Control(IT)	125.1	mmilow	mmilow	mmilow	8.891183688202522	mmihigh
+SRR23478279	69	126.0	132.85	10.0	10.57	126.0	female	Control	Control(IT)	125.1	mmihigh	mmihigh	mmihigh	8.891183688202522	mmihigh
+SRR23478191	70	138.0	60.84	11.0	4.57	138.0	female	Control	Control(IT)	109.76	mmilow	mmilow	mmilow	9.149281595260836	mmilow
+SRR23478202	71	138.0	94.92	11.0	7.41	138.0	female	Control	Control(IT)	109.76	mmilow	mmilow	mmilow	9.149281595260836	mmilow
+SRR23478280	72	138.0	120.06	11.0	9.5	138.0	female	Control	Control(IT)	109.76	mmihigh	mmihigh	mmihigh	9.149281595260836	mmihigh
+SRR23478281	73	138.0	128.57	11.0	10.21	138.0	male	Control	Control(IT)	109.76	mmihigh	mmihigh	mmihigh	9.149281595260836	mmihigh
+SRR23478282	74	138.0	103.86	11.0	8.16	138.0	male	Control	Control(IT)	109.76	mmilow	mmilow	mmilow	9.149281595260836	mmilow
+SRR23478283	75	138.0	126.45	11.0	10.04	138.0	female	Control	Control(IT)	109.76	mmihigh	mmihigh	mmihigh	9.149281595260836	mmihigh
+SRR23478284	76	138.0	121.15	11.0	9.6	138.0	female	Control	Control(IT)	109.76	mmihigh	mmihigh	mmihigh	9.149281595260836	mmihigh
+SRR23478292	77	138.0	122.25	11.0	9.69	138.0	female	Control	Control(IT)	109.76	mmihigh	mmihigh	mmihigh	9.149281595260836	mmihigh
+SRR23478213	78	150.0	126.35	12.0	10.03	150.0	female	Control	Control(IT)	108.56	mmihigh	mmihigh	mmihigh	9.339076260277926	mmihigh
+SRR23478231	79	150.0	90.77	12.0	7.06	150.0	male	Control	Control(IT)	108.56	mmilow	mmilow	mmilow	9.339076260277926	mmilow
+SRR23478242	80	162.0	117.4	13.0	9.28	162.0	female	Control	Control(IT)	126.54	mmilow	mmilow	mmilow	9.460567683253794	mmilow
+SRR23478253	81	162.0	132.45	13.0	10.54	162.0	female	Control	Control(IT)	126.54	mmihigh	mmihigh	mmihigh	9.460567683253794	mmihigh
+SRR23478264	82	162.0	142.88	13.0	11.41	162.0	female	Control	Control(IT)	126.54	mmihigh	mmihigh	mmihigh	9.460567683253794	mmihigh
+SRR23478275	83	162.0	116.68	13.0	9.22	162.0	male	Control	Control(IT)	126.54	mmilow	mmilow	mmilow	9.460567683253794	mmilow
+SRR23478293	84	162.0	147.61	13.0	11.8	162.0	female	Control	Control(IT)	126.54	mmihigh	mmihigh	mmihigh	9.460567683253794	mmihigh
+SRR23478294	85	162.0	102.21	13.0	8.02	162.0	male	Control	Control(IT)	126.54	mmilow	mmilow	mmilow	9.460567683253794	mmilow
+SRR23478285	86	174.0	74.1	14.0	5.67	174.0	male	Control	Control(IT)	100.24	mmilow	mmilow	mmilow	9.51375586418844	mmilow
+SRR23478286	87	174.0	113.54	14.0	8.96	174.0	female	Control	Control(IT)	100.24	mmihigh	mmihigh	mmihigh	9.51375586418844	mmilow
+SRR23478287	88	174.0	113.09	14.0	8.92	174.0	male	Control	Control(IT)	100.24	mmihigh	mmihigh	mmihigh	9.51375586418844	mmilow
+SRR23478288	89	186.0	126.63	15.0	10.05	186.0	female	Control	Control(IT)	122.46	mmihigh	mmihigh	mmihigh	9.498640803081862	mmihigh
+SRR23478289	90	186.0	117.81	15.0	9.32	186.0	female	Control	Control(IT)	122.46	mmilow	mmilow	mmilow	9.498640803081862	mmilow
+SRR23478290	91	186.0	122.94	15.0	9.75	186.0	male	Control	Control(IT)	122.46	mmihigh	mmihigh	mmihigh	9.498640803081862	mmihigh
+SRR23478291	92	198.0	124.33	16.0	9.86	198.0	female	Control	Control(IT)	124.33	mmihigh	mmihigh	mmihigh	9.41522249993406	mmihigh
+SRR23478220	93	210.0	130.94	17.0	10.41	210.0	male	Control	Control(IT)	130.94	mmihigh	mmihigh	mmihigh	9.263500954745039	mmihigh
+SRR29856071	94	210.0	53.69	17.0	3.97	210.0	female	CD	PIBD(IT)	130.94	mmilow	crohn's disease	CD		PIBD
+SRR29856073	95	174.0	71.44	14.0	5.45	174.0	male	CD	PIBD(IT)	100.24	mmilow	crohn's disease	CD		PIBD
+SRR29856074	96	138.0	112.03	11.0	8.84	138.0	female	UC	PIBD(IT)	109.76	mmihigh	ulcerative colitis	UC		PIBD
+SRR29856077	97	198.0	107.16	16.0	8.43	198.0	male	CD	PIBD(IT)	124.33	mmilow	crohn's disease	CD		PIBD
+SRR29856079	98	174.0	60.4	14.0	4.53	174.0	female	CD	PIBD(IT)	100.24	mmilow	crohn's disease	CD		PIBD
+SRR29856080	99	162.0	60.42	13.0	4.54	162.0	female	UC	PIBD(IT)	126.54	mmilow	ulcerative colitis	UC		PIBD
+SRR29856082	100	54.0	73.19	4.0	5.6	54.0	female	UC	PIBD(IT)	63.14	mmihigh	ulcerative colitis	UC		PIBD
+SRR29856083	101	186.0	70.31	15.0	5.36	186.0	female	UC	PIBD(IT)	122.46	mmilow	ulcerative colitis	UC		PIBD
+SRR29856085	102	186.0	70.72	15.0	5.39	186.0	female	UC	PIBD(IT)	122.46	mmilow	ulcerative colitis	UC		PIBD
+SRR29856086	103	174.0	98.59	14.0	7.72	174.0	male	CD	PIBD(IT)	100.24	mmilow	crohn's disease	CD		PIBD
+SRR29856087	104	174.0	91.3	14.0	7.11	174.0	female	UC	PIBD(IT)	100.24	mmilow	ulcerative colitis	UC		PIBD
+SRR29856088	105	174.0	39.22	14.0	2.77	174.0	female	UC	PIBD(IT)	100.24	mmilow	ulcerative colitis	UC		PIBD
+SRR29856090	106	150.0	75.62	12.0	5.8	150.0	male	UC	PIBD(IT)	108.56	mmilow	ulcerative colitis	UC		PIBD
+SRR29856091	107	126.0	89.07	10.0	6.92	126.0	male	CD	PIBD(IT)	125.1	mmilow	crohn's disease	CD		PIBD
+SRR29856092	108	174.0	70.63	14.0	5.39	174.0	female	CD	PIBD(IT)	100.24	mmilow	crohn's disease	CD		PIBD
+SRR29856093	109	114.0	77.25	9.0	5.94	114.0	female	CD	PIBD(IT)	95.75	mmilow	crohn's disease	CD		PIBD
+SRR29856094	110	162.0	60.73	13.0	4.56	162.0	female	UC	PIBD(IT)	126.54	mmilow	ulcerative colitis	UC		PIBD
+SRR29856095	111	162.0	108.0	13.0	8.5	162.0	male	CD	PIBD(IT)	126.54	mmilow	crohn's disease	CD		PIBD
+SRR29856096	112	162.0	115.61	13.0	9.13	162.0	male	CD	PIBD(IT)	126.54	mmilow	crohn's disease	CD		PIBD
+SRR29856097	113	102.0	88.09	8.0	6.84	102.0	male	CD	PIBD(IT)	107.68	mmilow	crohn's disease	CD		PIBD
+SRR29856098	114	138.0	54.21	11.0	4.02	138.0	female	CD	PIBD(IT)	109.76	mmilow	crohn's disease	CD		PIBD
+SRR29856099	115	150.0	82.98	12.0	6.42	150.0	male	UC	PIBD(IT)	108.56	mmilow	ulcerative colitis	UC		PIBD
+SRR29856102	116	186.0	74.9	15.0	5.74	186.0	female	UC	PIBD(IT)	122.46	mmilow	ulcerative colitis	UC		PIBD
+SRR23492483	117	162.0	104.11	13.0	8.18	162.0		UC	PIBD(IT)	126.54	mmilow	ulcerative colitis	UC		PIBD
+SRR23492508	118	42.0	42.9	3.0	3.08	42.0		UC	PIBD(IT)	74.8	mmilow	ulcerative colitis	UC		PIBD
+SRR23492516	119	186.0	77.28	15.0	5.94	186.0		UC	PIBD(IT)	122.46	mmilow	ulcerative colitis	UC		PIBD
+SRR23492517	120	198.0	86.05	16.0	6.67	198.0		UC	PIBD(IT)	124.33	mmilow	ulcerative colitis	UC		PIBD
+SRR23492518	121	186.0	118.95	15.0	9.41	186.0		UC	PIBD(IT)	122.46	mmilow	ulcerative colitis	UC		PIBD
+SRR23492520	122	186.0	84.24	15.0	6.52	186.0		UC	PIBD(IT)	122.46	mmilow	ulcerative colitis	UC		PIBD
+SRR23492521	123	102.0	128.18	8.0	10.18	102.0		UC	PIBD(IT)	107.68	mmihigh	ulcerative colitis	UC		PIBD
+SRR23492522	124	66.0	69.34	5.0	5.28	66.0		UC	PIBD(IT)	93.28	mmilow	ulcerative colitis	UC		PIBD
+SRR23492523	125	198.0	74.2	16.0	5.68	198.0		UC	PIBD(IT)	124.33	mmilow	ulcerative colitis	UC		PIBD
+SRR23492524	126	174.0	45.55	14.0	3.3	174.0		UC	PIBD(IT)	100.24	mmilow	ulcerative colitis	UC		PIBD
+SRR23492525	127	186.0	106.86	15.0	8.41	186.0		UC	PIBD(IT)	122.46	mmilow	ulcerative colitis	UC		PIBD
+SRR23492530	128	174.0	83.6	14.0	6.47	174.0		UC	PIBD(IT)	100.24	mmilow	ulcerative colitis	UC		PIBD
+SRR23492531	129	102.0	85.22	8.0	6.6	102.0		UC	PIBD(IT)	107.68	mmilow	ulcerative colitis	UC		PIBD
+SRR23492532	130	174.0	45.35	14.0	3.28	174.0		UC	PIBD(IT)	100.24	mmilow	ulcerative colitis	UC		PIBD
+SRR23492534	131	150.0	42.02	12.0	3.0	150.0		UC	PIBD(IT)	108.56	mmilow	ulcerative colitis	UC		PIBD
+SRR23492545	132	198.0	120.07	16.0	9.51	198.0		UC	PIBD(IT)	124.33	mmilow	ulcerative colitis	UC		PIBD
+SRR23492546	133	126.0	82.23	10.0	6.35	126.0		UC	PIBD(IT)	125.1	mmilow	ulcerative colitis	UC		PIBD
+SRR23492547	134	102.0	60.84	8.0	4.57	102.0		UC	PIBD(IT)	107.68	mmilow	ulcerative colitis	UC		PIBD
+SRR23492549	135	18.0	44.49	1.0	3.21	18.0		UC	PIBD(IT)	50.83	mmilow	ulcerative colitis	UC		PIBD
+SRR23492550	136	90.0	95.87	7.0	7.49	90.0		UC	PIBD(IT)	102.02	mmilow	ulcerative colitis	UC		PIBD
+SRR23492551	137	186.0	96.83	15.0	7.57	186.0		UC	PIBD(IT)	122.46	mmilow	ulcerative colitis	UC		PIBD
+SRR23492553	138	186.0	69.3	15.0	5.28	186.0		UC	PIBD(IT)	122.46	mmilow	ulcerative colitis	UC		PIBD
+SRR23492554	139	66.0	62.22	5.0	4.68	66.0		UC	PIBD(IT)	93.28	mmilow	ulcerative colitis	UC		PIBD
+SRR23492555	140	150.0	55.53	12.0	4.13	150.0		UC	PIBD(IT)	108.56	mmilow	ulcerative colitis	UC		PIBD
+SRR23492556	141	42.0	84.98	3.0	6.58	42.0		UC	PIBD(IT)	74.8	mmihigh	ulcerative colitis	UC		PIBD
+SRR23492560	142	210.0	51.18	17.0	3.77	210.0		UC	PIBD(IT)	130.94	mmilow	ulcerative colitis	UC		PIBD

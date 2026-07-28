@@ -1,0 +1,23 @@
+	FeatureID	Covariate	Log2(FC)	SE	W	pvalue	qvalue	Signif
+0	Bifidobacterium_388775	mmibased[T.mmilow]	1.264	0.307	4.122	0.0	0.007	True
+1	PeH17	mmibased[T.mmilow]	-0.657	0.181	-3.64	0.0	0.046	True
+2	Streptococcus	mmibased[T.mmilow]	1.557	0.366	4.255	0.0	0.004	True
+3	Alistipes_A_871400	mmibased[T.mmilow]	-2.128	0.385	-5.534	0.0	0.0	True
+4	Eggerthella	mmibased[T.mmilow]	2.218	0.37	5.994	0.0	0.0	True
+5	Blautia_A_141781	mmibased[T.mmilow]	1.497	0.33	4.531	0.0	0.001	True
+6	Odoribacter_865974	mmibased[T.mmilow]	-0.86	0.225	-3.813	0.0	0.023	True
+7	Pauljensenia	mmibased[T.mmilow]	0.942	0.207	4.556	0.0	0.001	True
+8	Vescimonas	mmibased[T.mmilow]	-1.595	0.307	-5.189	0.0	0.0	True
+9	Alistipes_A_871404	mmibased[T.mmilow]	-1.441	0.25	-5.762	0.0	0.0	True
+10	UBA5905	mmibased[T.mmilow]	-0.9	0.231	-3.898	0.0	0.017	True
+11	Anaerotruncus	mmibased[T.mmilow]	-0.721	0.155	-4.653	0.0	0.001	True
+12	Dysosmobacter	mmibased[T.mmilow]	-1.755	0.257	-6.839	0.0	0.0	True
+13	Merdimmobilis	mmibased[T.mmilow]	-1.087	0.194	-5.613	0.0	0.0	True
+14	Clostridia_258483 unclassified genus	mmibased[T.mmilow]	-0.576	0.138	-4.16	0.0	0.006	True
+15	Acetatifactor	mmibased[T.mmilow]	-1.079	0.23	-4.687	0.0	0.0	True
+16	Lawsonibacter	mmibased[T.mmilow]	-0.976	0.201	-4.867	0.0	0.0	True
+17	Ruminococcus_B	mmibased[T.mmilow]	1.89	0.357	5.301	0.0	0.0	True
+18	Limivicinus	mmibased[T.mmilow]	-0.858	0.213	-4.025	0.0	0.01	True
+19	Faecousia	mmibased[T.mmilow]	-1.52	0.29	-5.24	0.0	0.0	True
+20	Oxalobacter	mmibased[T.mmilow]	-0.509	0.137	-3.709	0.0	0.035	True
+21	QAKW01 unclassified genus	mmibased[T.mmilow]	-0.471	0.12	-3.931	0.0	0.015	True
