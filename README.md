@@ -25,6 +25,16 @@ This repository contains the datasets and analysis workflows used to investigate
 - Construction of genus-genus association networks and network analysis for each MMI group
 - Network comparison of among MMI groups 
 
+## Authors 
+
+- **Wooyeong Park**
+  - Project conception, software development, data analysis, manuscript preparation
+  - GitHub: https://github.com/WooyeongPark
+- **Seungpyo Hong**
+  - Project supervision, study design, manuscript preparation
+  - GitHub: https://github.com/sp1020
+
+
 ## Data availability
 - Raw sequencing data are publicly available in the NCBI Sequence Read Archive (SRA)
 	- Study accessions: PRJNA280490, PRJNA1136812, and PRJNA935155.
